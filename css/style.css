@@ -1,0 +1,139 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+   
+}
+body{
+    background: url(../img/background-images-for-login-page3bc68c53b0db224b.jpg);
+     height: 900px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+header div{
+   
+text-align: center;
+margin-top: 20px;
+width:300px;
+height: 100px;
+
+
+
+}
+main{
+   
+    width: 490px;
+   box-shadow: 1px 1px 20px 1px rgb(161, 159, 159); 
+   opacity: 0.9;
+   margin-top: 30px;
+   border-radius: 5px;
+   color: #fff;
+
+}
+.main1{
+    padding: 12px;
+      overflow: hidden;
+}
+.main1 p{
+    font-size: 15px;
+    opacity: 0.7;
+    margin-left: 5px;
+}
+input{
+   
+  padding: 15px 20px;
+  margin: 8px 0;
+  
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+ 
+}
+.ho{
+    width: 45%;
+}
+.ten{
+    float: right;
+  
+}
+.text{
+    
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-top: 15px;
+}
+.text h4{
+    margin-top: 8px;
+    opacity: 0.5;
+}
+.email, .mk{
+    width: 100%;
+}
+.ngaythang{
+    width: 30%;
+     padding: 13px 20px;
+  margin: 8px 5px;
+  
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+ 
+
+}
+.nam{
+   width: 30%;
+   
+   display: inline-block;
+    padding: 8px 10px;
+  margin: 8px 4px;
+  
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+ 
+}
+.nam label{
+  
+   
+    margin-right: 65px;
+}
+.nam1{
+     display: inline-block;
+    padding: 8px 10px;
+  margin: 8px 4px;
+  
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.nam1 label{
+padding-right: 35px;
+}
+.dangky{
+    background-color: #ec194e;
+    color: #fff;
+    border-radius: 6px;
+    font-size: 18px;
+    width: 194px;
+
+    
+}
+.dangky1{
+      
+       text-align: center;
+       margin-top: 10px;
+}
+.dangky2 {
+      text-align: center;
+       margin-top: 10px;
+      
+       font-size: 17px;
+}
+.dangky2 a{
+ text-decoration: none;
+ color: #fff;
+}
+.dangky2 a:hover{
+    color: red;
+}
+
